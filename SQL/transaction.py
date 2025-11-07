@@ -6,13 +6,9 @@ class SQLTransaction:
         # تنظیمات اتصال به دیتابیس
         database = 'master'  # نام دیتابیس
 
-        server = '172.31.56.41'  # یا IP سرور
-        username = 'cs_lariyan'  # نام کاربری
-        password = 'ERGY4bK31U7Qd2PF6T?R_W'  # رمز عبور
-
-        #server = '172.31.56.40'  # یا IP سرور
-        # username = 'CS_Khorshidi'  # نام کاربری
-        # password = 'nz6Lr2gxzVJr'  # رمز عبور
+        server = ''  # یا IP سرور
+        username = ''  # نام کاربری
+        password = ''  # رمز عبور
 
         driver = '{ODBC Driver 17 for SQL Server}'  # درایور ODBC
 
